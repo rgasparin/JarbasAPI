@@ -1,1 +1,1 @@
-Projeto SmartHome para ser usado com Raspberry pi
+Projeto JarbasAPI para ser usado com Raspberry pi
